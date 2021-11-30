@@ -34,3 +34,25 @@ h6 {
 }
 
 /* heading tags styling end */
+
+/* styling classes start */
+.rainbow-gradient {
+  width: fit-content;
+  margin: 0px;
+  background: linear-gradient(
+    to right,
+    #ef5350,
+    #f48fb1,
+    #7e57c2,
+    #2196f3,
+    #26c6da,
+    #43a047,
+    #eeff41,
+    #f9a825,
+    #ff5722
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* styling classes end */
