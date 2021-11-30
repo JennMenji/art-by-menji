@@ -1,0 +1,36 @@
+body {
+  font-family: "Unica One", cursive;
+}
+
+/* heading tags styling start*/
+h1 {
+  font-family: "Comforter", cursive;
+  font-size: 10rem;
+}
+
+h2 {
+  font-family: "Comforter", cursive;
+  font-size: 9.5rem;
+}
+
+h3 {
+  font-family: "Comforter", cursive;
+  font-size: 9rem;
+}
+
+h4 {
+  font-family: "Comforter", cursive;
+  font-size: 8.5rem;
+}
+
+h5 {
+  font-family: "Comforter", cursive;
+  font-size: 8rem;
+}
+
+h6 {
+  font-family: "Comforter", cursive;
+  font-size: 7.5rem;
+}
+
+/* heading tags styling end */
